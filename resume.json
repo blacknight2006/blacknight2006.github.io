@@ -25,8 +25,8 @@
           "skills": {
             "languages": ["typescript"],
             "technologies": ["aurelia", "gdal", "gulp", "npm", "rest", "tls", "nodejs", "gdal"],
-            "tools": ["windows", "git", "jira", "uml"],
-            "data": [],
+            "tools": ["windows", "git", "jira", "uml", "visualstudio"],
+            "data": ["mongodb", "postgres"],
             "processes": ["agile"]
           },
           "work": [

@@ -232,7 +232,7 @@
   },
   "adfs": {
     "name": "Microsoft ADFS",
-    "path": "images/microsoftadfs-logo.jpg"
+    "path": "images/microsoftadfs-logo.png"
   },
   "apigateway": {
     "name": "API Gateway",
