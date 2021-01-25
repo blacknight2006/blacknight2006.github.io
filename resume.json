@@ -55,7 +55,7 @@
           "description": "Employed to build, maintain and upgrade multiple application environments, ensuring 99.9% or better uptime with an emphasis on availability, reliability, scalability, data confidentiality and system integrity.",
           "skills": {
             "languages": ["bash", "html", "xml"],
-            "technologies": ["remedy", "maximo"],
+            "technologies": ["remedy", "maximo", "siteminder"],
             "tools": ["windows", "git", "jira", "uml", "visualstudio", "linux"],
             "data": ["mongodb", "mssql"],
             "processes": ["waterfall"]
