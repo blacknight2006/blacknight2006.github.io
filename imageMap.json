@@ -265,5 +265,9 @@
   "solarWinds": {
     "name": "SolarWinds",
     "path": "images/solarwinds-logo.png"
+  },
+  "pfm": {
+    "name": "PFM",
+    "path": "images/pfm-logo.png"
   }
 }
