@@ -23,11 +23,11 @@
           "role": "CAP Lead and Software Systems Engineer",
           "description": "PFM is a communication application designed to connect persistent survellant systems with smart munitions for the Army.",
           "skills": {
-            "languages": ["typescript"],
-            "technologies": ["aurelia", "gdal", "gulp", "npm", "rest", "tls", "nodejs", "gdal"],
-            "tools": ["windows", "git", "jira", "uml", "visualstudio"],
-            "data": ["mongodb", "postgres"],
-            "processes": ["agile"]
+            "languages": [],
+            "technologies": [],
+            "tools": [],
+            "data": [],
+            "processes": []
           },
           "work": [
             "Senior member on a team of 3 CAP Leads",
@@ -51,11 +51,11 @@
           "role": "Software Engineer and Server Administrator",
           "description": "Employed to build, maintain and upgrade multiple application environments, ensuring 99.9% or better uptime with an emphasis on availability, reliability, scalability, data confidentiality and system integrity.",
           "skills": {
-            "languages": ["bash", "html", "xml"],
-            "technologies": ["remedy", "maximo", "siteminder", "adfs", "nasaEnterpriseDirectory", "apiGateway", "sharepoint", "nasaVisitorManagementSystem", "sso"],
-            "tools": ["windows", "git", "jira", "uml", "visualstudio", "linux"],
-            "data": ["mongodb", "mssql"],
-            "processes": ["waterfall"]
+            "languages": [],
+            "technologies": [],
+            "tools": [],
+            "data": [],
+            "processes": []
           },
           "work": [
             "Perform application and server tests to validate operations",
