@@ -220,7 +220,7 @@
   },
   "nism": {
     "name": "NISM",
-    "path": "images/nism-logo.jpg"
+    "path": "images/nism-logo.png"
   },
   "maximo": {
     "name": "IBM Maximo",
@@ -252,7 +252,7 @@
   },
   "rhel": {
     "name": "RHEL",
-    "path": "images/rhel-logo.jpg"
+    "path": "images/rhel-logo.png"
   },
   "notepad++": {
     "name": "Notepad++",

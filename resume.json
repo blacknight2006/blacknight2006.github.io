@@ -187,83 +187,12 @@
       "name": "Fleet Driver Service",
       "description": "Truck driver application processing program.",
       "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "tls"],
-        "tools": ["git"],
-        "data": ["postgres"],
-        "processes": ["agile"]
-      }
-    },    
-    {
-      "name": "authentication-server",
-      "description": "OAuth 2.0 authentication server meant for SSO for multiple applications",
-      "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "tls"],
-        "tools": ["webstorm", "git", "linux"],
-        "data": ["mongodb"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "create single sign on server",
-        "allow registered users to create applications and manage access to the application via the authentication server",
-        "offer users the ability to user other SSO services such as Google, Twitter, or Facebook",
-        "secure and encrypt all traffic between the server and clients",
-        "provide as an in cloud service",
-	"must be platform independent (runs on Linux, Windows, OsX)"
-      ]
-    },
-    {
-      "name": "Home Automation",
-      "description": "Automation of commonly used items in the house such as light switches, outlets, garage door, door locks, and air conditioning vents. Utilized multiple embedded technologies such as the EZ430-RF2500 development board, as well as XBee radios.",
-      "skills": {
-        "languages": ["c", "cpp"],
-        "technologies": ["rest"],
-        "tools": ["eclipse", "git", "linux"],
-        "data": ["sqlite"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "design circuit layout",
-        "determine components to use",
-        "develop embedded and UX software",
-	"development performed in Linux environment"
-      ]
-    },
-    {
-      "name": "Account Track",
-      "description": "Application that allows user to track expenses. Accounts within the application are sharable with other users and can be accessed across multiple devices. Written in cordova and available for both iOS and Android.",
-      "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "cordova", "angular"],
-        "tools": ["webstorm", "git"],
-        "data": ["mongodb"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "cross platform account/budget tracking mobile application",
-        "allows multi-device sign on",
-        "allows account sharing",
-        "works on all mobile OS",
-        "built using Apache Cordova framework",
-        "backend runs on NodeJS"
-      ]
-    },
-    {
-      "name": "Simple Budget (deprecated)",
-      "description": "Simple account tracking application written for WP8 mobile. Was previously available in Windows mobile store.",
-      "skills": {
-        "languages": ["csharp"],
-        "technologies": [".net", "xaml"],
-        "tools": ["windows", "visualstudio", "svn"],
+        "languages": [],
+        "technologies": [],
+        "tools": [],
         "data": [],
         "processes": []
-      },
-      "work": [
-        "WP8 native application",
-        "allow user to track daily expenses",
-        "allow user to edit and delete entries"
-      ]
+      }
     }
   ],
   "education": [
