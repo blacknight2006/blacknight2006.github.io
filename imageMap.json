@@ -231,7 +231,7 @@
     "path": "images/siteminder-logo.png"
   },
   "adfs": {
-    "name": "Microsoft ADFS",
+    "name": "MS ADFS",
     "path": "images/microsoftadfs-logo.png"
   },
   "apigateway": {
