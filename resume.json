@@ -31,7 +31,7 @@
           },
           "work": [
             "work",
-			"Work2"
+			      "Work2"
           ]
         }
       ]
@@ -60,9 +60,9 @@
             "conduct",
             "provide",
             "lay",
-	    "assist",
+	          "assist",
             "create",
-		  "25"
+		        "25"
           ]
         }
       ]
@@ -324,89 +324,21 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "",
-      "description": "",
-      "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "tls"],
-        "tools": ["git"],
-        "data": ["postgres"],
-        "processes": ["agile"]
-      }
-    },    
-    {
-      "name": "",
-      "description": "",
-      "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "tls"],
-        "tools": ["webstorm", "git", "linux"],
-        "data": ["mongodb"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "create",
-        "must be platform"
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "skills": {
-        "languages": ["c", "cpp"],
-        "technologies": ["rest"],
-        "tools": ["eclipse", "git", "linux"],
-        "data": ["sqlite"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "design circuit layout",
-        "determine components to use",
-        "develop embedded and UX software",
-	"development performed in Linux environment"
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "skills": {
-        "languages": ["javascript"],
-        "technologies": ["nodejs", "gulp", "npm", "rest", "cordova", "angular"],
-        "tools": ["webstorm", "git"],
-        "data": ["mongodb"],
-        "processes": ["agile"]
-      },
-      "work": [
-        "cross",
-        "backend runs on NodeJS"
-      ]
-    },
-    {
-      "name": "",
-      "description": "",
-      "skills": {
-        "languages": ["csharp"],
-        "technologies": [".net", "xaml"],
-        "tools": ["windows", "visualstudio", "svn"],
-        "data": [],
-        "processes": []
-      },
-      "work": [
-        "application",
-        "expenses",
-        "entries"
-      ]
-    }
-  ],
+  "projects": [],
   "education": [
     {
       "school": "University of Alabama in Huntsville",
-      "link": "",
+      "link": "https://www.uah.edu/",
       "location": "Huntsville, AL",
       "date": "2008 - 20013",
-      "degree": "Computer Science with Minor in Mathematics"
+      "degree": "B.S. in Computer Science with Minor in Mathematics"
+    },
+    {
+      "school": "Community College of the Air Force (CCAF)",
+      "link": "https://www.airuniversity.af.edu/Barnes/CCAF/",
+      "location": "Maxwell AFB, AL",
+      "date": "2007 - 2011",
+      "degree": "A.S. in Electronics Systems Techonology"
     }
   ]
 }
