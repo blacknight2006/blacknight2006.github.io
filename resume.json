@@ -184,7 +184,7 @@
   ],
   "projects": [
     {
-      "name": "NISM: Reporting and Tracking",
+      "name": "NISM: Report Audit Tracking",
       "description": "This module was created to provide advanced reporting and scheduling capabilities, to the user, that worked in conjunction with the included reporting application.",
       "skills": {
         "languages": ["javascript"],
@@ -195,7 +195,7 @@
       }
     },
     {
-      "name": "NISM: Heartbeat",
+      "name": "NISM: Heartbeat Oversight Form",
       "description": "This module, in the NISM application, was created to track the health of the servers and NISM processes running on the servers. It then stores that data and sends a notification to the development team when performance anomalies are encountered.",
       "skills": {
         "languages": ["javascript"],
