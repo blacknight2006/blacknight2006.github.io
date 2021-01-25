@@ -122,32 +122,37 @@
       ]
     },
     {
-      "company": "SAIC",
-      "link": "http://www.saic.com/",
-      "location": "Huntsville, AL",
-      "date": "October 2012 - December 2016",
+      "company": "United States Air Force - Air National Guard (ANG)",
+      "link": "https://www.goang.com",
+      "location": "",
+      "date": "November 2006 - November 2012",
       "projects": [
         {
-          "name": "XWALK",
-          "date": "April 2016 - Present",
-          "role": "Software Team Lead",
-          "description": "XWALK is an obsolescence management tool for Army PM AGSE. It allows the AGSE users to identify and resolve issues with parts which are nearing end of life within Army systems. XWALK is a public facing web application using TLS and has integrated CAC authentication via an OAuth 2.0 server and user role management. XWALK employs NodeJS as the primary server-side technology with a MongDB database. The frontend client is a single page application employing the Aurelia framework.",
+          "name": "118th AW: Client Systems Operations (3D1X1) in Nashville, TN",
+          "date": "October 2007 - November 2012",
+          "role": "Client Systems Operator",
+          "description": "Computer networking specialist, responsible for deployment, sustainment, troubleshooting and repair of standard voice, data, video and cryptographic client devices.",
           "skills": {
-            "languages": ["javascript", "html", "css", "csharp"],
-            "technologies": ["nodejs", "aurelia", "gulp", "jspm", "npm", "jquery", "rest", "tls", "sass"],
-            "tools": ["windows", "linux", "webstorm", "git", "jira", "uml"],
-            "data": ["mongodb"],
-            "processes": ["agile"]
+            "languages": ["javascript", "html", "cpp"],
+            "technologies": ["remedy", "solarWinds", "tls"],
+            "tools": ["windows", "uml", "notepad++", "hailstorm"],
+            "data": ["mssql"],
+            "processes": []
           },
           "work": [
-            "lead team of 3 software engineers and an integrated tester to complete project requirements within budget and schedule constraints",
-            "derive software requirements from system level requirements which are then broken into developer task and worked using an Agile approach",
-            "provide monthly status updates to management on project status such as requirements progress, SLOC, identify any risk and schedule concerns",
-            "conduct software engineering working groups with customer to ensure the software meets their expectations",
-            "provide mentoring and guidance as a senior developer to more junior developers on the team",
-            "lay out software architecture and lead effort to select tool set to be used",
-	    "assist in developing code base",
-            "create design documentation such as data flow diagrams, database tables, and sequence diagrams"
+            "Lead small team of 2 Client Operators and reported statuses to Chief Client Operator",
+            "Provide customer support with BMC Remedy application",
+            "Maintained user records and access privileges using Active Directory",
+            "Create and maintain firewall and security protocols for base network",
+            "Maintain applications on base by configuring and applying regular security patches",
+            "Create and maintain base network diagrams for SolarWinds (computers, printers, faxes and phones)",
+            "Train personnel on system administration"
+          ],
+          "accomplishments": [
+            "Acquired 5-level in 3C2X1 field in 3D1X1 field",
+            "Completed Airman Leadership School (ALS) training",
+            "Obtained rank of Staff Sergeant",
+            "Obtained CompTIA Security+ Certification"
           ]
         },
         {

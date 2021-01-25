@@ -269,5 +269,9 @@
   "pfm": {
     "name": "PFM",
     "path": "images/pfm-logo.png"
+  },
+  "hailstorm": {
+    "name": "Hailstorm",
+    "path": "images/hailstorm-logo.png"
   }
 }
