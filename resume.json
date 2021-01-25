@@ -87,32 +87,36 @@
       ]
     },
     {
-      "company": "COLSA Corporation",
-      "link": "http://www.colsa.com/",
+      "company": "Dynetics Technical Services (DTS)",
+      "link": "https://www.dynetics.com/",
       "location": "Huntsville, AL",
-      "date": "January 2017 - November 2017",
+      "date": "June 2013 - June 2016",
       "projects": [
         {
-          "name": "Prime (Revamped)",
-          "date": "January - Present",
-          "role": "Software Team Lead",
-          "description": "Prime is a contract management tool. Prime's purpose is to allow contract managers to more easily manage their contract. I was selected as lead of this project in order to re-write the existing tool and make it accomodate a wider range of contract types be it Firm Fixed, Cost Plus, or Time and Materials. The new Prime version uses a .NET backend with MS SQL server as the data storage mechanism and Angular 4.0 as the client side technology. It is a service oriented architecture with clean seperation of concerns.",
+          "name": "NASA MITS Contract",
+          "date": "June 2013 - June 2016",
+          "role": "Remedy and Maximo Developer",
+          "description": "Remedy and Maximo are ticketing applications that provide: incident, problem, knowledge, change, release, asset, configuration and service level management; while providing the users with smart reporting capabilities.",
           "skills": {
-            "languages": ["javascript", "html", "css", "csharp", "typescript"],
-            "technologies": [".net", "angular", "gulp", "webpack", "npm", "rest", "tls", "sass"],
-            "tools": ["windows", "git", "jira", "uml"],
-            "data": ["mssql"],
-            "processes": ["agile"]
+            "languages": ["javascript", "html", "css", "bash", "xml"],
+            "technologies": ["remedy", "maximo", "sso", "rest", "tls", "vm"],
+            "tools": ["windows", "rhel", "nism"],
+            "data": ["mongodb", "mssql"],
+            "processes": ["agile", "waterfall"]
           },
           "work": [
-            "lead team of 3 software engineers and 2 tester to complete project requirements within budget and schedule constraints",
-            "provide sprint status updates to management on project status such as requirements progress, identify any risk and schedule concerns",
-            "conduct software engineering working groups with customer to ensure the software meets their expectations",
-            "provide mentoring and guidance as a senior developer to more junior developers on the team",
-            "lay out software architecture and lead effort to select tool set to be used",
-	    "assist in developing code base",
-            "create design documentation such as data flow diagrams, database tables, and sequence diagrams",
-		  "CMMI 3"
+            "Create and maintain development documentation for testing and reports for management and NASA customers",
+            "Train customers to use the Remedy and Maximo applications",
+            "Provide customer support for incidents and other technical issues",
+            "Design, plan and execute RHEL architecture VM migrations",
+            "Design and execute Remedy high-availability architecture upgrade",
+            "Implement Remedy internal health monitor utility",
+            "Monitor server and application performance",
+            "Design and create application logos per customer requirements",
+            "Provide project status updates to management and team members"
+          ],
+          "accomplishments": [
+            "Certificate of Team Appreciation for the BMC Remedy v9.0 Upgrade Project"
           ]
         }
       ]

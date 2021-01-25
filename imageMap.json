@@ -236,7 +236,7 @@
   },
   "apigateway": {
     "name": "API Gateway",
-    "path": "images/apigateway-logo.jpg"
+    "path": "images/apigateway-logo.png"
   },
   "sharepoint": {
     "name": "SharePoint",
