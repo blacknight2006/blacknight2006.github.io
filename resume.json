@@ -12,8 +12,8 @@
   },
   "experience": [
 	{
-	  "company": "SAIC",
-      "link": "https://www.saic.com/",
+      "company": "SAIC",
+      "link": "http://www.saic.com/",
       "location": "Huntsville, AL",
       "date": "June 2016 - Present",
       "projects": [
@@ -43,94 +43,6 @@
             "Create and update design models and documentation",
             "Assess critical issues and provide impact analysis",
             "Provide input for CAP risk assessment and risk mitigation"
-          ]
-        },
-        {
-          "name": "NASA EAST2 Contract",
-          "date": "June 2016 - March 2019",
-          "role": "Software Engineer and Server Administrator",
-          "description": "Employed to build, maintain and upgrade multiple application environments, ensuring 99.9% or better uptime with an emphasis on availability, reliability, scalability, data confidentiality and system integrity.",
-          "skills": {
-            "languages": [],
-            "technologies": [],
-            "tools": [],
-            "data": [],
-            "processes": []
-          },
-          "work": [
-            "Perform application and server tests to validate operations",
-            "Create and maintain server scripts to perform and report various tasks and statuses",
-            "Train co-workers on new applications",
-            "Provide on-call support as required",
-            "Analyze and reduce performance issues with NASA applications and servers",
-            "Validate and migrate developer code to different enrivonments (dev, test, stage, production)",
-            "Coordinate and schedule NASA application activities",
-            "Perform software patching and OS kernel updates",
-            "Diagnose and resolve application, server and certificate vulnerabilities",
-            "Designed new RHEL architecture and created UML diagram documentation",
-            "Increased application uptime by developing automation for server reboots, post patching activities",
-            "Analyze database queries for reports and issues within the applications",
-            "Maintain privileges access to servers and applications",
-            "SharePoint administration and site design experience",
-            "Create and update documentation for applications, scans, daily tasks, vulnerabilities (POA&Ms) and Root-Cause analyses",
-            "Analyze current application and OS setup for possible architecture improvements",
-            "Design and create application logos per customer requirements"
-          ]
-        }
-      ]
-    },
-    {
-      "company": "",
-      "link": "",
-      "location": "Huntsville, AL",
-      "date": "",
-      "projects": [
-        {
-          "name": "",
-          "date": "",
-          "role": "",
-          "description": "",
-          "skills": {
-            "languages": ["javascript", "html", "css", "csharp", "typescript"],
-            "technologies": [".net", "angular", "gulp", "webpack", "npm", "rest", "tls", "sass"],
-            "tools": ["windows", "git", "jira", "uml"],
-            "data": ["mssql"],
-            "processes": ["agile"]
-          },
-          "work": [
-            "lead",
-            "provide",
-            "conduct",
-            "provide",
-            "lay",
-	          "assist",
-            "create",
-		        "25"
-          ]
-        }
-      ]
-    },
-    {
-      "company": "SAIC",
-      "link": "http://www.saic.com/",
-      "location": "Huntsville, AL",
-      "date": "",
-      "projects": [
-        {
-          "name": "",
-          "date": "",
-          "role": "",
-          "description": "",
-          "skills": {
-            "languages": ["javascript", "html", "css", "csharp"],
-            "technologies": ["nodejs", "aurelia", "gulp", "jspm", "npm", "jquery", "rest", "tls", "sass"],
-            "tools": ["windows", "linux", "webstorm", "git", "jira", "uml"],
-            "data": ["mongodb"],
-            "processes": ["agile"]
-          },
-          "work": [
-            "lead",
-            "create"
           ]
         },
         {
