@@ -49,10 +49,10 @@
           ]
         },
         {
-          "name": "Precision Fires Manager (PFM)",
-          "date": "March 2019 - Present",
-          "role": "CAP Lead and Software Systems Engineer",
-          "description": "PFM is a communication application designed to connect persistent survellant systems with smart munitions for the Army.",
+          "name": "NASA EAST2 Contract",
+          "date": "June 2016 - March 2019",
+          "role": "Software Engineer and Server Administrator",
+          "description": "Employed to build, maintain and upgrade multiple application environments, ensuring 99.9% or better uptime with an emphasis on availability, reliability, scalability, data confidentiality and system integrity.",
           "skills": {
             "languages": ["typescript"],
             "technologies": [],
@@ -61,22 +61,27 @@
             "processes": ["agile"]
           },
           "work": [
-            "Senior member on a team of 3 CAP Leads",
-            "Assist SW Manager and Chief Architect in leading a team of 12 developers and 4 testers",
-            "Plan and coordinate software releases for PFM",
-            "Create and Prioritize Capability Assessment Packages (CAPs) for releases",
-            "Plan and create tasks for developers and testers on the team",
-            "Create and maintain software release documentation (SDD, ICD, SRS, etc.)",
-            "Create, maintain and brief status updates to management",
-            "Lead requirements analysis and schedule management",
-            "Provide input and review PFM-related documentation (STD, STP, PP, FHA, PHA, etc.)",
-            "Coordinate changes to project schedule, milestones and documentation",
-            "Create and update design models and documentation",
-            "Assess critical issues and provide impact analysis",
-            "Provide input for CAP risk assessment and risk mitigation"
+            "Perform application and server tests to validate operations",
+            "Create and maintain server scripts to perform and report various tasks and statuses",
+            "Train co-workers on new applications",
+            "Provide on-call support as required",
+            "Analyze and reduce performance issues with NASA applications and servers",
+            "Validate and migrate developer code to different enrivonments (dev, test, stage, production)",
+            "Coordinate and schedule NASA application activities",
+            "Perform software patching and OS kernel updates",
+            "Diagnose and resolve application, server and certificate vulnerabilities",
+            "Designed new RHEL architecture and created UML diagram documentation",
+            "Increased application uptime by developing automation for server reboots, post patching activities",
+            "Analyze database queries for reports and issues within the applications",
+            "Maintain privileges access to servers and applications",
+            "SharePoint administration and site design experience",
+            "Create and update documentation for applications, scans, daily tasks, vulnerabilities (POA&Ms) and Root-Cause analyses",
+            "Analyze current application and OS setup for possible architecture improvements",
+            "Design and create application logos per customer requirements"
           ],
           "accomplishments": [
-            "Assisted in the implementation and release of the PFM v1.0.0.0 application"
+            "MSFC CIO Achiever Award for the implementation of EZMax Mobile",
+            "MSFC Group Achievement Award for the EZMax Mobile Team"
           ]
         }
       ]
