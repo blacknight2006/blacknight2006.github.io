@@ -24,7 +24,7 @@
           "description": "PFM is a communication application designed to connect persistent survellant systems with smart munitions for the Army.",
           "skills": {
             "languages": ["typescript"],
-            "technologies": [],
+            "technologies": ["aurelia", "gdal", "gulp", "npm", "rest", "tls", "nodejs", "gdal"],
             "tools": ["windows", "git", "jira", "uml"],
             "data": [],
             "processes": ["agile"]
