@@ -100,7 +100,7 @@
           "skills": {
             "languages": ["javascript", "html", "css", "bash", "xml"],
             "technologies": ["remedy", "maximo", "sso", "rest", "tls", "vm"],
-            "tools": ["windows", "rhel", "nism"],
+            "tools": ["windows", "rhel"],
             "data": ["mongodb", "mssql"],
             "processes": ["agile", "waterfall"]
           },
