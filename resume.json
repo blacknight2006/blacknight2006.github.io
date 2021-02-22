@@ -20,8 +20,8 @@
         {
           "name": "Precision Fires Manager (PFM)",
           "date": "March 2019 - Present",
-          "role": "CAP Lead and Software Systems Engineer",
-          "description": "PFM is a communication application designed to connect persistent survellant systems with smart munitions for the Army.",
+          "role": "CAP Lead and Software Systems Engineer: FULL Time",
+          "description": "Precision Fires Manager (PFM) is a Quick Fires Software (QFS) that ingests sensor nominated target locations and refines them to Precision Guided Munition (PGM) quality target locations. It is an integrated application that provides a common access point for sensor and/or user data for detection and/or target lists, maneuver units and organic weapon systems that operate at Forward Operating Bases (FOBs), Tactical Operations Centers (TOCs) and Combat Outposts (COPs) that is designed to connect persistent surveillant systems with smart munitions for the Army.",
           "skills": {
             "languages": ["typescript"],
             "technologies": ["aurelia", "gdal", "gulp", "npm", "rest", "tls", "nodejs", "gdal"],
@@ -53,7 +53,7 @@
         {
           "name": "NASA EAST2 Contract",
           "date": "June 2016 - March 2019",
-          "role": "Software Engineer and Server Administrator",
+          "role": "Software Engineer and Server Administrator: FULL Time",
           "description": "Employed to build, maintain and upgrade multiple application environments, ensuring 99.9% or better uptime with an emphasis on availability, reliability, scalability, data confidentiality and system integrity.",
           "skills": {
             "languages": ["bash", "html", "xml"],
@@ -63,23 +63,23 @@
             "processes": ["waterfall"]
           },
           "work": [
-            "Perform application and server tests to validate operations",
-            "Create and maintain server scripts to perform and report various tasks and statuses",
-            "Train co-workers on new applications",
-            "Provide on-call support as required",
-            "Analyze and reduce performance issues with NASA applications and servers",
-            "Validate and migrate developer code to different enrivonments (dev, test, stage, production)",
-            "Coordinate and schedule NASA application activities",
-            "Perform software patching and OS kernel updates",
-            "Diagnose and resolve application, server and certificate vulnerabilities",
+            "Performed application and server tests to validate operations",
+            "Createed and maintain server scripts to perform and report various tasks and statuses",
+            "Trained co-workers on new applications",
+            "Provided on-call support as required",
+            "Analyzed and reduced performance issues with NASA applications and servers",
+            "Validated and migrated developer code to different enrivonments (dev, test, stage, production)",
+            "Coordinated and scheduled NASA application activities",
+            "Performed software patching and OS kernel updates",
+            "Diagnosed and resolved application, server and certificate vulnerabilities",
             "Designed new RHEL architecture and created UML diagram documentation",
             "Increased application uptime by developing automation for server reboots, post patching activities",
-            "Analyze database queries for reports and issues within the applications",
-            "Maintain privileges access to servers and applications",
+            "Analyzed database queries for reports and issues within the applications",
+            "Maintained privileges access to servers and applications",
             "SharePoint administration and site design experience",
-            "Create and update documentation for applications, scans, daily tasks, vulnerabilities (POA&Ms) and Root-Cause analyses",
-            "Analyze current application and OS setup for possible architecture improvements",
-            "Design and create application logos per customer requirements"
+            "Created and updated documentation for applications, scans, daily tasks, vulnerabilities (POA&Ms) and Root-Cause analyses",
+            "Analyzed current application and OS setup for possible architecture improvements",
+            "Designed and created application logos per customer requirements"
           ],
           "accomplishments": [
             "MSFC CIO Achiever Award for the implementation of EZMax Mobile",
@@ -97,7 +97,7 @@
         {
           "name": "NASA MITS Contract",
           "date": "June 2013 - June 2016",
-          "role": "Remedy and Maximo Developer",
+          "role": "Remedy and Maximo Developer: FULL Time",
           "description": "Remedy and Maximo are ticketing applications that provide: incident, problem, knowledge, change, release, asset, configuration and service level management; while providing the users with smart reporting capabilities.",
           "skills": {
             "languages": ["javascript", "html", "css", "bash", "xml"],
@@ -107,15 +107,17 @@
             "processes": ["agile", "waterfall"]
           },
           "work": [
-            "Create and maintain development documentation for testing and reports for management and NASA customers",
-            "Train customers to use the Remedy and Maximo applications",
-            "Provide customer support for incidents and other technical issues",
-            "Design, plan and execute RHEL architecture VM migrations",
-            "Design and execute Remedy high-availability architecture upgrade",
-            "Implement Remedy internal health monitor utility",
-            "Monitor server and application performance",
-            "Design and create application logos per customer requirements",
-            "Provide project status updates to management and team members"
+            "Created and maintained development documentation for testing and reports for management and NASA customers",
+            "Trained customers to use the Remedy and Maximo applications",
+            "Provided customer support for incidents and other technical issues",
+	    "Configured Maximo and Remedy applications to meet customer requirements",
+	    "Provided server support for planned activities and maintenance",
+            "Designed, planed and executed RHEL architecture VM migrations",
+            "Designed and executed Remedy high-availability architecture upgrade",
+            "Implemented Remedy internal health monitor utility",
+            "Monitored server and application performance",
+            "Designed and created application logos per customer requirements",
+            "Provided project status updates to management and team members"
           ],
           "accomplishments": [
             "Certificate of Team Appreciation for the BMC Remedy v9.0 Upgrade Project"
@@ -132,7 +134,7 @@
         {
           "name": "118th AW: Client Systems Operations (3D1X1) in Nashville, TN",
           "date": "October 2007 - November 2012",
-          "role": "Client Systems Operator",
+          "role": "Client Systems Operator: PART Time",
           "description": "Computer networking specialist, responsible for deployment, sustainment, troubleshooting and repair of standard voice, data, video and cryptographic client devices.",
           "skills": {
             "languages": ["javascript", "html", "cpp"],
@@ -142,13 +144,17 @@
             "processes": []
           },
           "work": [
-            "Lead small team of 2 Client Operators and reported statuses to Chief Client Operator",
-            "Provide customer support with BMC Remedy application",
+            "Senior member of the 118th AW Help Desk on team of 4",
+	    "Coordinated and conducted training of subordinates and reported statuses to Chief Client Operator",
+	    "Provided training updates to documentation",
+	    "Created/maintained base network diagrams",
+            "Provided customer support with BMC Remedy application",
             "Maintained user records and access privileges using Active Directory",
-            "Create and maintain firewall and security protocols for base network",
-            "Maintain applications on base by configuring and applying regular security patches",
-            "Create and maintain base network diagrams for SolarWinds (computers, printers, faxes and phones)",
-            "Train personnel on system administration"
+	    "Created and maintained base data backup procedures",
+            "Created and maintained firewall and security protocols for base network",
+            "Maintained applications on base by configuring and applying regular security patches",
+            "Created and maintained base network diagrams for SolarWinds (computers, printers, faxes and phones)",
+            "Trained personnel on system administration"
           ],
           "accomplishments": [
             "Acquired 5-level in 3C2X1 field in 3D1X1 field",
@@ -160,7 +166,7 @@
         {
           "name": "225th CBCS: Technical Controlman (3C2X1) in Gadsden, AL",
           "date": "November 2006 - October 2007",
-          "role": "Technical Controlman",
+          "role": "Communications - Computer Systems Controller: PART Time",
           "description": "Monitor and control performance of networks and communications-computer systems (C-CS). Coordinates configuration, operation, restoration and service improvements, as well as to analyze capabilities & performance, identify problems and take corrective actions to resolve any issue that arises.",
           "skills": {
             "languages": [],
