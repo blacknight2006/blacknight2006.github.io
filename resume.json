@@ -4,11 +4,13 @@
   },
   "about": {
     "name": "Michael Hill",
-    "email": "mah0023@alumni.uah.edu",
-    "phone": "256-258-9475",
+    "email": "blacknight.mah0023@gmail.com",
+    "phone": "256-541-5232",
     "github": "https://github.com/blacknight2006",
     "clearance": "Active DoD Secret",
-    "summary": "Multitasking Systems Engineer and Technical/CAP Lead with skills in scripting automation, application and OS troubleshooting/patching and server security mitigations looking for a challenging and fulfilling role to further my skills in project leadership, systems engineering, systems/OS administration and/or IT security.  With more than 13 years of combined experience (Air Force, and contractor positions with NASA and Army), I bring analytical knowledge, attention to detail, skill, a collaborative mindset, conflict resolution and determination to any project, producing quality solutions and products."
+    "summary": "USAF Veteran with more than 17 years of combined experience (Air Force, NASA & Army), I bring a wealth of IT and engineering experience, leadership, analytical knowledge, attention to detail, a collaborative mindset, conflict resolution and determination to any project, producing quality solutions and products.  I lead a team of ~40 FTEs to develop, test, integrate and sustain software for the Army called Precision Fires Manager (PFM). I provide direction in tasking, product design (UI and SW Architecture) and assist with ensuring the project stays on schedule and budget. I also assist with product interactions/integration efforts to help grow the customer base and ensure project longevity.
+
+If you'd like to know more about me or want to discuss PFM, please contact me and we can discuss scheduling a demo."
   },
   "experience": [
 	{
@@ -47,7 +49,7 @@
             "POC for PFM Engineering when coordinating between other internal groups (MA, Cyber, etc.)"
           ],
           "accomplishments": [
-            "Assisted in the implementation and release of the PFM v1.0.0.0 application"
+            "Assisted in the implementation and release of the PFM v1.0.0.0 application", "Re-Certified on CompTIA Security+ CE"
           ]
         },
         {
@@ -217,9 +219,9 @@
   "education": [
     {
       "school": "University of Alabama in Huntsville (UAH)",
-      "link": "https://www.uah.edu/",
+      "link": "https://www.uah.edu/",          
       "location": "Huntsville, AL",
-      "date": "2008 - 2013",
+      "date": "2008 - 2013"
       "degree": "B.S. in Computer Science with minor in Mathematics"
     },
     {
@@ -228,6 +230,13 @@
       "location": "Maxwell AFB, AL",
       "date": "2007 - 2011",
       "degree": "A.S. in Electronics Systems Techonology"
+    },
+    {
+      "school": "CompTIA Security+ CE",
+      "link": "https://www.comptia.org/",
+      "location": "Huntsville, AL",
+      "date": "2021 - Present",
+      "credential id": "COMP001020141560"
     }
   ]
 }
