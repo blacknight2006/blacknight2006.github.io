@@ -187,7 +187,29 @@
           "accomplishments": [
             "Completed 3C2X1 Tech School and acquired 3-level"
           ]
-        }
+        },
+        {
+          "name": "Westar Aerospace & Defense Group, INC in Huntsville, AL",
+          "date": "June 2005 - February 2006",
+          "role": "Code Tagger - Computer Systems Controller: PART Time",
+          "description": "I was responsible for checking and validating links in digital manuals created for the Army and adding the appropriate HTML tags. I also filled out reports based on usage and delivery of these manuals to the customer..",
+          "skills": {
+            "languages": [],
+            "technologies": [],
+            "tools": [],
+            "data": [],
+            "processes": []
+          },
+          "work": [
+            "Served as office administrator",
+            "Validated HTML links in code pointed to the correct location within the manuals",
+            "Gathered metrics on usage and number of code corrections needed",
+	    "Created reports to be delivered to management"
+          ],
+          "accomplishments": [
+            "Learned HTML and QA validation for Army manuals"
+          ]
+        }	      
       ]
     }
   ],
