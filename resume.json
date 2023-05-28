@@ -19,9 +19,47 @@
       "projects": [
         {
           "name": "Precision Fires Manager (PFM)",
-          "date": "March 2019 - Present",
+          "date": "November 2021 - Present",
+          "role": "Chief Software Architect and Task Lead: FULL Time",
+          "description": ["Responsible for creating, maintaining and reporting on project status, application design, documentation, development and testing activities, as well as to ensure coordination for testing and validation events and travel for home station training.  I also ensure the project stays on schedule and budget as defined/dicted by the PFM Program Office.",
+		"Precision Fires Manager (PFM) is a Quick Fires Software (QFS) that ingests sensor nominated target locations and refines them to Precision Guided Munition (PGM) quality target locations. It is an integrated application that provides a common access point for sensor and/or user data for detection and/or target lists, maneuver units and organic weapon systems that operate at Forward Operating Bases (FOBs), Tactical Operations Centers (TOCs) and Combat Outposts (COPs) that is designed to connect persistent surveillant systems with smart munitions for the Army."],
+          "skills": {
+            "languages": [],
+            "technologies": [],
+            "tools": [],
+            "data": [],
+            "processes": []
+          },
+          "work": [
+            "Lead a team of ~40 Full Time Employees (FTEs)",
+            "Plan and coordinate software releases for PFM",
+            "Create and Prioritize Capability Assessment Packages (CAPs) for releases",
+            "Plan, schedule and create tasks for all employees on the team",
+            "Create status reports of software release and active tasks being worked/completed",
+            "Brief status updates to higher level management on development, test and documentation progress",
+            "Lead creation and analysis of requirements and schedule management",
+            "Provide input and help review PFM-related documentation (STD, STP, PP, FHA, PHA, etc.)",
+            "Coordinate changes to project schedule, milestones and documentation",
+            "Create and update PFM Topology and Cycersecurity design model for each release",
+	    "Key contributor to SWCCB, CAP risk assessment and risk mitigation",
+            "Create and maintain weekly and monthly project reporting updates to higher level management and other stakeholders",
+            "POC for PFM Project for coordinating new integrations",
+	    "Create funding documentation for support requests from new/existing customers",
+	    "Manage PFM budget with PFM Program Manager to include: Travel, Material and Labor",
+	    "Create and update documentation for processing of ATOs, ROMs and ONS documents",
+	    "Work with GOV PM to acquire and analyze ICD documents to plan for future integrations",
+	    "Meet with groups to discuss potential integrations, new funding opportunities and oversee demonstrations of the PFM software"
+          ],
+          "accomplishments": [
+            "Assisted in coordinating/acquisition of new program funds to extend life of project", 
+	    "Directed research into multiple concepts with the Army Special Forces to expand PFM's utility into mobile environments"
+          ]
+        },
+	{
+          "name": "Precision Fires Manager (PFM)",
+          "date": "March 2019 - November 2021",
           "role": "CAP Lead and Software Systems Engineer: FULL Time",
-          "description": "Precision Fires Manager (PFM) is a Quick Fires Software (QFS) that ingests sensor nominated target locations and refines them to Precision Guided Munition (PGM) quality target locations. It is an integrated application that provides a common access point for sensor and/or user data for detection and/or target lists, maneuver units and organic weapon systems that operate at Forward Operating Bases (FOBs), Tactical Operations Centers (TOCs) and Combat Outposts (COPs) that is designed to connect persistent surveillant systems with smart munitions for the Army.",
+          "description": "Served as the lead Systems Engineer to ensure timely delivery of the PFM source code and all documentation as part of the TDP to the Army. I also helped plan each release, helped design the architecture of the application, reported current status of the project to management and communicated with the customer and end users to gather and validate requirements were being met.",
           "skills": {
             "languages": ["typescript"],
             "technologies": ["aurelia", "gdal", "gulp", "npm", "rest", "tls", "nodejs", "gdal"],
