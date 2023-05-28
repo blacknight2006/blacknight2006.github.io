@@ -220,7 +220,7 @@
       "school": "University of Alabama in Huntsville (UAH)",
       "link": "https://www.uah.edu/",          
       "location": "Huntsville, AL",
-      "date": "2008 - 2013"
+      "date": "2008 - 2013",
       "degree": "B.S. in Computer Science with minor in Mathematics"
     },
     {
@@ -229,6 +229,13 @@
       "location": "Maxwell AFB, AL",
       "date": "2007 - 2011",
       "degree": "A.S. in Electronics Systems Techonology"
+    },
+    {
+      "school": "CompTIA Security+ CE",
+      "link": "https://www.comptia.org/",
+      "location": "Huntsville, AL",
+      "date": "2021 - Present",
+      "degree": "COMP001020141560"
     }
   ]
 }
